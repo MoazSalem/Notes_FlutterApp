@@ -16,7 +16,7 @@ Now with 2.0.0 Update</br>
 
 ### - 3 View Styles</br>
 
-### - Tablet Suppoet</br>
+### - Tablet Support</br>
 
 # ** Screenshots **
 
